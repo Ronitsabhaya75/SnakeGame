@@ -14,3 +14,7 @@ The objective is to grow the snake as long as possible without colliding with th
 'a': Move the snake left
 
 'd': Move the snake right
+
+2. During the game, you will be asked math and relational questions. Answering them correctly will increase your score and snake length.
+
+3. Avoid hitting the walls or the snake's own body. Colliding with any of these will end the game.
