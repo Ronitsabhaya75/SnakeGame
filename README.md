@@ -6,7 +6,11 @@ The objective is to grow the snake as long as possible without colliding with th
 
 ## How to Play
 1. Use the 'w', 's', 'a', and 'd' keys to control the snake's movement:
- 'w': Move the snake up
+
+'w': Move the snake up
+
 's': Move the snake down
+
 'a': Move the snake left
+
 'd': Move the snake right
